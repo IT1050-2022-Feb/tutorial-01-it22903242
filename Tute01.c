@@ -5,7 +5,7 @@
 #include <stdio.h>
 
 int main() {
-   int main() {
+   
    int M1,M2;
    float avg;
    
